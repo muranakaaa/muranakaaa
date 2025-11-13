@@ -1,5 +1,5 @@
 三重県鈴鹿市出身。大阪市在住のソフトウェアエンジニアです。筑波大学国際総合学類2023年卒業。
-SEO対策やインターネット広告などデジタルマーケティング職に5年従事し、大阪への移住のタイミングで転職しました。
+SEO対策やネット広告などデジタルマーケティング職に5年従事し、大阪への移住のタイミングで転職しました。
 
 - 仕事でメインで使用している技術
   - AWS、Go、GraphQL
@@ -16,7 +16,7 @@ SEO対策やインターネット広告などデジタルマーケティング�
 - ウェブサイト
   - [Yahoo!JAPAN](https://www.yahoo.co.jp/)、[クリック20世紀](https://web.archive.org/web/20210416024554/http://www.c20.jp/)、[消えた映画館の記憶](https://hekikaicinema.memo.wiki/)、[OTONAMIE](https://otonamie.jp/)、[relay](https://relay.town/)
 - AWSサービス
-  - Route53、Aurora Serveless v2、WAF、SQS、Database Migration Service、Egress-Only Gateway
+  - Route53、ALB、Aurora Serveless v2、Database Migration Service
 
 ## 外部リンク
 - Twitter: https://x.com/ayatakaa_chan
