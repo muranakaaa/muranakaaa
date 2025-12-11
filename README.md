@@ -15,8 +15,6 @@ SEO対策やネット広告などデジタルマーケティング職に5年従�
   - Sly & The Family Stone『Fresh』（1973）、Prince『Mountains』（1986）、Jeff Beck『Wired』（1976）、カネコアヤノ『燦々』（2019）、ヒグチアイ『未成線上』（2024）、a子『ANTI BLUE』（2022）、相対性理論『TOWN AGE』（2013）、ゆらゆら帝国『3×3×3』（1998）、水曜日のカンパネラ『SUPERMAN』（2017）
 - ウェブサイト
   - [Yahoo!JAPAN](https://www.yahoo.co.jp/)、[クリック20世紀](https://web.archive.org/web/20210416024554/http://www.c20.jp/)、[消えた映画館の記憶](https://hekikaicinema.memo.wiki/)、[OTONAMIE](https://otonamie.jp/)、[relay](https://relay.town/)
-- AWSサービス
-  - Route53、ALB、Aurora Serveless v2、Database Migration Service
 
 ## 外部リンク
 - Twitter: https://x.com/ayatakaa_chan
